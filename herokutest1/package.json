@@ -1,0 +1,23 @@
+{
+  "name": "testsite",
+  "version": "1.0.0",
+  "description": "Test site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nah"
+  },
+  "keywords": [
+    "nah"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.5"
+  }
+}
